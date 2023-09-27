@@ -1,7 +1,10 @@
 # Adventure Works Cycles   
 ![3 - AdventureWorks-Logo](https://github.com/msamhoud/Adventure-Works-/assets/78819528/6dd92ffd-b57a-4d65-9bab-c52d5108ecfd)
 ## 1 - Introduction
-        Adventure Works Cycles is a fictitious manufacturing company that produces and distributes metal and composite bicycles to commercial markets in North America, Europe, and Asia. The headquarters for Adventure Works Cycles is Bothell, Washington, where the company employs 500 workers. Additionally, Adventure Works Cycles employs several regional sales teams throughout its market base.
+        Adventure Works Cycles is a fictitious manufacturing company that produces and distributes
+        metal and composite bicycles to commercial markets in North America, Europe, and Asia.
+        The headquarters for Adventure Works Cycles is Bothell, Washington, where the company employs 500 workers.
+        Additionally, Adventure Works Cycles employs several regional sales teams throughout its market base.
 
 ## 2 - Objectives
         1 - track KPIs ( sales, revenue, profit, returns).
