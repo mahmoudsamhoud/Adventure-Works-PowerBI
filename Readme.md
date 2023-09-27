@@ -19,4 +19,5 @@
         2 - Product data ( name, code, size, model, price, color, main product category, subcategory, etc...)
         3 - Sales data for three years 2015, 2016, 2017 ( order date, order number, buyer, order quantity, territory, etc...)
 
-
+## The Dashboard was uploaded as a pdf file as well as the model view.
+        
