@@ -19,5 +19,22 @@
         2 - Product data ( name, code, size, model, price, color, main product category, subcategory, etc...)
         3 - Sales data for three years 2015, 2016, 2017 ( order date, order number, buyer, order quantity, territory, etc...)
 
-## The Dashboard was uploaded as a pdf file as well as the model view.
+## Here is a little preview of what the Dashboard looks like. For the dashboard, please check the [AdvantureWorks_Report.pbix](https://github.com/mahmoudsamhoud/Adventure-Works-PowerBI/blob/main/AdvantureWorks_Report.pbix)
+
+### 1. Executive Summary
+![Executive_Summary](https://github.com/mahmoudsamhoud/Adventure-Works-PowerBI/assets/78819528/b1e11d22-70d1-4ba4-90c5-b3ba22764918)
+
+### 2. Customer Detail
+![Customer_Detail](https://github.com/mahmoudsamhoud/Adventure-Works-PowerBI/assets/78819528/73e5fc39-e5eb-4f0d-aa86-0024af5767f3)
+
+### 3. Product Detail
+![Product_Detail](https://github.com/mahmoudsamhoud/Adventure-Works-PowerBI/assets/78819528/c17b2c05-19d8-4f32-9f03-21fdc07dc20d)
+
+### 4. Model View
+![modelview](https://github.com/mahmoudsamhoud/Adventure-Works-PowerBI/assets/78819528/07e56dac-4d30-43fe-9eed-bf69e240e762)
+
+
+
+
+
         
